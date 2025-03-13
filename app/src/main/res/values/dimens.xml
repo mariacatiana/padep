@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margens -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <!-- Paddings -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+
+    <!-- Tamanhos de texto -->
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+
+    <!-- Alturas -->
+    <dimen name="height_divider">1dp</dimen>
+    <dimen name="height_button">48dp</dimen>
+
+    <!-- Larguras -->
+    <dimen name="width_guideline">200dp</dimen>
+
+    <!-- Tamanhos de ícones -->
+    <dimen name="icon_size_small">24dp</dimen>
+    <dimen name="icon_size_medium">32dp</dimen>
+</resources>

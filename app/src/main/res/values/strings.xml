@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Padep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search">Encontre rapidamente as atividades desejadas</string>
+    <string name="label_filter">Filtar por</string>
+    <string name="hilt_classes_recycler_view">Escola uma opção para filtrar as atividades</string>
+    <string name="label_home">Início</string>
+    <string name="label_activities">Banco de atividades</string>
+    <string name="label_register">Chamada</string>
+    <string name="text_forgot_password">Recuperar a senha</string>
+    <string name="label_acess_account">Acesse sua conta</string>
+    <string name="label_welcome">Boas vindas ao seu App</string>
+    <string name="label_description">Porque a educação pública merece tecnologia que entende a realidade da sala de aula!</string>
+    <string name="label_how_to_acess_your_account">Para acessar sua conta</string>
+    <string name="hint_login">Digite seu email ou CPF</string>
+    <string name="hint_password">Digite sua senha</string>
+    <string name="label_login">Email/CPF</string>
+    <string name="label_password">Senha</string>
+    <string name="label_signup">Cadastrar</string>
+    <string name="label_signin">Entrar</string>
+    <string name="label_forgot_password">Recuperar senha</string>
+    <string name="label_save">Salvar</string>
+    <string name="label_csv">Importar CSV</string>
+    <string name="label_notes"><![CDATA[Lançar Notas >]]></string>
+    <string name="label_classes_name">Nome da Turma</string>
+    <string name="label_inep_code">Código INEP</string>
+    <string name="label_activities_available">Atividades Disponíveis</string>
+</resources>
