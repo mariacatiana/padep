@@ -24,6 +24,3 @@ Os próximos passos para o desenvolvimento do **PadeP** incluem:
 ### 🔄 Desenvolvimento de Versões Específicas 📈
 - **Versão para Aluno:** Adaptar a plataforma para atender às necessidades específicas dos alunos, como acesso a materiais didáticos e acompanhamento de atividades 📚.
 - **Versão para Área Administrativa:** Implementar funcionalidades para que a equipe administrativa possa gerenciar o sistema, incluindo monitoramento de atividades e gestão de usuários 📊.
-
-## 📬 Contato
-Para mais informações ou para contribuir com o projeto, entre em contato conosco através do e-mail: [catiamd@gmail.com](mailto:catiamd@gmail.com) 📧
